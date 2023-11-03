@@ -1,3 +1,3 @@
-# gieraallegro
+# Allegro.js test game
 Test game in allegro js
-First steps in browser programming
+One of my first steps in browser programming
